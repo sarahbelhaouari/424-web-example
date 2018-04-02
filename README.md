@@ -41,3 +41,6 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 
 ##Conflict on Master
 this section will be different on the conflictbranch
+
+##Method
+How will we resolve this conflict, since the "base" now has a conflict in it?
